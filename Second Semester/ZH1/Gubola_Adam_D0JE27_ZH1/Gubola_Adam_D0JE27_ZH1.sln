@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gubola_Adam_D0JE27_ZH1", "Gubola_Adam_D0JE27_ZH1\Gubola_Adam_D0JE27_ZH1.csproj", "{1F871514-6D11-438C-9B93-347689174FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gubola_Adam_D0JE27_ZH1_Teszt", "Gubola_Adam_D0JE27_ZH1_Teszt\Gubola_Adam_D0JE27_ZH1_Teszt.csproj", "{58522934-1D7D-4B4D-AA1F-7AF43ECF75E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F871514-6D11-438C-9B93-347689174FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F871514-6D11-438C-9B93-347689174FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F871514-6D11-438C-9B93-347689174FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F871514-6D11-438C-9B93-347689174FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58522934-1D7D-4B4D-AA1F-7AF43ECF75E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58522934-1D7D-4B4D-AA1F-7AF43ECF75E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58522934-1D7D-4B4D-AA1F-7AF43ECF75E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58522934-1D7D-4B4D-AA1F-7AF43ECF75E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E3B4A3-D43B-4568-9CA9-12CFE0FDFF7D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gubola_Adam_D0JE27_ZH2", "Gubola_Adam_D0JE27_ZH2\Gubola_Adam_D0JE27_ZH2.csproj", "{A191735D-C714-4D22-818C-1BA471D2580E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gubola_Adam_D0JE27_ZH2_Test", "Gubola_Adam_D0JE27_ZH2_Test\Gubola_Adam_D0JE27_ZH2_Test.csproj", "{AFE816CC-D752-44A1-B068-3FAA8D69AD98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A191735D-C714-4D22-818C-1BA471D2580E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A191735D-C714-4D22-818C-1BA471D2580E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A191735D-C714-4D22-818C-1BA471D2580E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A191735D-C714-4D22-818C-1BA471D2580E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE816CC-D752-44A1-B068-3FAA8D69AD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE816CC-D752-44A1-B068-3FAA8D69AD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE816CC-D752-44A1-B068-3FAA8D69AD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE816CC-D752-44A1-B068-3FAA8D69AD98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3137189-3CAF-4484-A96E-94EB7110B341}
+	EndGlobalSection
+EndGlobal

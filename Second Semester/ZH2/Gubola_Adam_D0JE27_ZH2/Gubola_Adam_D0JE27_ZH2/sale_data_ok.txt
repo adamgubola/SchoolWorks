@@ -1,0 +1,30 @@
+Csirke farhát;Food;1000;330
+Tejföl 20%;Food;330;299
+Körömpörkölt;Food;450;1290
+Kenyér (félbarna);Food;500;389
+Almás pite;Food;120;420
+Zöld tea;Drink;250;279
+Arctisztító kendo;Cosmetics;50;890
+Narancslé 100%;Drink;1000;579
+Folyékony mosószer;Other;2000;1990
+Csirkemellfilé;Food;500;1250
+Burgonya;Food;1500;379
+Kakaós tej;Drink;500;249
+Kézkrém (kamilla);Cosmetics;100;799
+Parfüm mini;Cosmetics;30;3590
+Zöldborsó konzerv;Food;400;339
+Szénsavas üdíto;Drink;1500;459
+Testápoló;Cosmetics;200;1190
+Almás gyümölcslé;Drink;750;389
+Sós perec;Food;100;229
+Ásványvíz (szénsavmentes);Drink;1500;189
+Banán;Food;1000;499
+Túrórudi;Food;30;159
+Lencsefozelék;Food;400;449
+Hajbalzsam;Cosmetics;200;990
+Narancs;Food;800;520
+Kézfertotleníto gél;Cosmetics;100;1390
+Csokis keksz;Food;150;299
+Müzliszelet;Food;40;189
+Kovászos uborka;Food;720;559
+Energiaital;Drink;250;399

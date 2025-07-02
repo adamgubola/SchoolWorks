@@ -1,0 +1,3 @@
+Alberlet 50 5 30000000
+CsaladiApartman 62 2 40000000
+Garazs 10 5000000 futott

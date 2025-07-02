@@ -1,0 +1,16 @@
+Rizs (hosszúszemű);Food;1000;679
+Körömlakk;Cosmetics;-10;890
+Tejeskávé (üveges);Drink;330;299
+Krémsajt;Food;200;529
+Epres joghurt;Food;150;199
+Szappan (folyékony);Cosmetics;300;-649
+Instant kakaópor;Food;400;699
+Kakaóital (dobozos);Drink;500;369
+Hajlakk;Cosmetics;250;1090
+Kukoricapehely;Food;375;899
+Szénsavas víz;Drink;-1500;169
+Alkoholos kézspray;Cosmetics;-150;-1190
+Méz;Food;500;1890
+Mandulatej;Drink;1000;849
+Fémdobozos kóla;Drink;330;269
+Mosogatószer;Other;-500;479
